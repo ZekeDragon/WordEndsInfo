@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/com/kirhut/wordendsinfo">
+        <file compression-algorithm="zlib" alias="english.txt">english_words.txt</file>
+    </qresource>
+</RCC>
